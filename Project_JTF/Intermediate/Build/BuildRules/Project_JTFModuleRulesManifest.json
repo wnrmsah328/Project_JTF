@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\UE\\Unreal_Project\\JTF\\Project_JTF\\Source\\Project_JTF\\Project_JTF.Build.cs",
+		"D:\\GameDev\\UE\\Unreal_Project\\JTF\\Project_JTF\\Source\\Project_JTF.Target.cs",
+		"D:\\GameDev\\UE\\Unreal_Project\\JTF\\Project_JTF\\Source\\Project_JTFEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

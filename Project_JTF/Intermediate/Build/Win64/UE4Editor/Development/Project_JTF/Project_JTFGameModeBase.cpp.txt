@@ -1,0 +1,7 @@
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Intermediate\Build\Win64\UE4Editor\Development\Project_JTF\Definitions.Project_JTF.h
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Source\Project_JTF\Project_JTFGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Intermediate\Build\Win64\UE4Editor\Inc\Project_JTF\Project_JTFGameModeBase.generated.h

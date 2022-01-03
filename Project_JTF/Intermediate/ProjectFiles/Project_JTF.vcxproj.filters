@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Project_JTF.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CF09CB81-E4ED-4BCF-9527-9BE2B4B240FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_JTF.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project_JTFEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{97755F58-C7C1-4D5F-A0B5-0D478107A09F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project_JTF">
+      <UniqueIdentifier>{8AE4477A-B232-466F-9FE5-9F6221AB33A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_JTF\Project_JTF.Build.cs">
+      <Filter>Source\Project_JTF</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project_JTF\Project_JTF.cpp">
+      <Filter>Source\Project_JTF</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\Project_JTF.h">
+      <Filter>Source\Project_JTF</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Project_JTF\Project_JTFGameModeBase.cpp">
+      <Filter>Source\Project_JTF</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\Project_JTFGameModeBase.h">
+      <Filter>Source\Project_JTF</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

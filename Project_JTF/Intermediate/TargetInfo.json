@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Project_JTF",
+			"Path": "D:\\GameDev\\UE\\Unreal_Project\\JTF\\Project_JTF\\Source\\Project_JTF.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Project_JTFEditor",
+			"Path": "D:\\GameDev\\UE\\Unreal_Project\\JTF\\Project_JTF\\Source\\Project_JTFEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
