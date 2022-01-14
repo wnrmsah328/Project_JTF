@@ -1,0 +1,5 @@
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Intermediate\Build\Win64\UE4Editor\Development\Project_JTF\Definitions.Project_JTF.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Source\Project_JTF/02_Weapon/W_AssultRifle.h
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Intermediate\Build\Win64\UE4Editor\Inc\Project_JTF\W_AssultRifle.generated.h

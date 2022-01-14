@@ -40,7 +40,6 @@ void EmptyLinkFunctionForGeneratedCodeProject_JTFGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProject_JTFGameModeBase_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "Project_JTFGameModeBase.h" },
 		{ "ModuleRelativePath", "Project_JTFGameModeBase.h" },
@@ -74,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeProject_JTFGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AProject_JTFGameModeBase, 4168198921);
+	IMPLEMENT_CLASS(AProject_JTFGameModeBase, 1406603669);
 	template<> PROJECT_JTF_API UClass* StaticClass<AProject_JTFGameModeBase>()
 	{
 		return AProject_JTFGameModeBase::StaticClass();

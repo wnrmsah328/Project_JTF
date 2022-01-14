@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Project_JTF.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CF09CB81-E4ED-4BCF-9527-9BE2B4B240FE}</UniqueIdentifier>
+      <UniqueIdentifier>{6AC9577D-12D2-4176-8F11-472FC295BCBB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Project_JTF.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{97755F58-C7C1-4D5F-A0B5-0D478107A09F}</UniqueIdentifier>
+      <UniqueIdentifier>{D9950AE9-DC97-405F-89D0-C4D05208D3EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\Project_JTF">
-      <UniqueIdentifier>{8AE4477A-B232-466F-9FE5-9F6221AB33A4}</UniqueIdentifier>
+      <UniqueIdentifier>{FB42443B-B86A-4C2F-84D2-7ACEF1A50B60}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Project_JTF\Project_JTF.Build.cs">
       <Filter>Source\Project_JTF</Filter>
@@ -40,6 +43,42 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Project_JTF\Project_JTFGameModeBase.h">
       <Filter>Source\Project_JTF</Filter>
+    </ClInclude>
+    <Filter Include="Source\Project_JTF\01_Player_Character">
+      <UniqueIdentifier>{E8F5009E-34A6-45E0-9C0F-D4EF766081C9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project_JTF\01_Player_Character\C_AnimInstance.cpp">
+      <Filter>Source\Project_JTF\01_Player_Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\01_Player_Character\C_AnimInstance.h">
+      <Filter>Source\Project_JTF\01_Player_Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Project_JTF\01_Player_Character\C_Recruit.cpp">
+      <Filter>Source\Project_JTF\01_Player_Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\01_Player_Character\C_Recruit.h">
+      <Filter>Source\Project_JTF\01_Player_Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\Project_JTF\02_Weapon">
+      <UniqueIdentifier>{17387C55-6EB8-4612-A98F-A2444C30D445}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project_JTF\02_Weapon\W_AssultRifle.cpp">
+      <Filter>Source\Project_JTF\02_Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\02_Weapon\W_AssultRifle.h">
+      <Filter>Source\Project_JTF\02_Weapon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Project_JTF\02_Weapon\W_BulletProjectile.cpp">
+      <Filter>Source\Project_JTF\02_Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_JTF\02_Weapon\W_BulletProjectile.h">
+      <Filter>Source\Project_JTF\02_Weapon</Filter>
+    </ClInclude>
+    <Filter Include="Source\Project_JTF\Utilities">
+      <UniqueIdentifier>{C2193BF8-605A-4CFA-BC76-CA3DAE9157D9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Project_JTF\Utilities\Helpers.h">
+      <Filter>Source\Project_JTF\Utilities</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

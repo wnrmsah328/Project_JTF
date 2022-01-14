@@ -1,4 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "Project_JTF.h"
 #include "Modules/ModuleManager.h"

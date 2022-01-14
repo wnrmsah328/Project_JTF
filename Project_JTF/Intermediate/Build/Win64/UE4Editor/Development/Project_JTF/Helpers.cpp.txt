@@ -1,0 +1,2 @@
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Intermediate\Build\Win64\UE4Editor\Development\Project_JTF\Definitions.Project_JTF.h
+D:\GameDev\UE\Unreal_Project\JTF\Project_JTF\Source\Project_JTF\Utilities/Helpers.h

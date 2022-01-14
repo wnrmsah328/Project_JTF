@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PROJECT_JTF_Project_JTFGameModeBase_generated_h
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_SPARSE_DATA
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_RPC_WRAPPERS
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_SPARSE_DATA
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_RPC_WRAPPERS
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_RPC_WRAPPERS_NO_PURE_DECLS
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAProject_JTFGameModeBase(); \
 	friend struct Z_Construct_UClass_AProject_JTFGameModeBase_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AProject_JTFGameModeBase)
 
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_INCLASS \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesAProject_JTFGameModeBase(); \
 	friend struct Z_Construct_UClass_AProject_JTFGameModeBase_Statics; \
@@ -34,9 +34,9 @@ public: \
 	DECLARE_SERIALIZER(AProject_JTFGameModeBase)
 
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AProject_JTFGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AProject_JTFGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProject_JTFGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AProject_JTFGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProject_JTFGameModeBase); \
@@ -47,9 +47,7 @@ private: \
 public:
 
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AProject_JTFGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AProject_JTFGameModeBase(AProject_JTFGameModeBase&&); \
@@ -57,31 +55,31 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AProject_JTFGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProject_JTFGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProject_JTFGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AProject_JTFGameModeBase)
 
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_12_PROLOG
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_PRIVATE_PROPERTY_OFFSET
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_7_PROLOG
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_SPARSE_DATA \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_RPC_WRAPPERS \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_INCLASS \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_PRIVATE_PROPERTY_OFFSET \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_SPARSE_DATA \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_RPC_WRAPPERS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_INCLASS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_GENERATED_BODY \
+#define Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_SPARSE_DATA \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_PRIVATE_PROPERTY_OFFSET \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_SPARSE_DATA \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_INCLASS_NO_PURE_DECLS \
+	Project_JTF_Source_Project_JTF_Project_JTFGameModeBase_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
